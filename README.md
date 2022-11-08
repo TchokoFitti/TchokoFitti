@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Tiago
+- i am from Brazil
 - i am a student from Cesar School
 - i am graduated in electrical engineering
 - i am learning to program with several languages, but i have a preference for python
