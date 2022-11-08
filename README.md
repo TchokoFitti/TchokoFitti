@@ -1,10 +1,10 @@
 ### Hi there 👋
 I am Tiago
-- i am from Brazil
-- i am a student from Cesar School
-- i am graduated in electrical engineering
-- i am learning to program with several languages, but i have a preference for python
-- i love to play videogames, especially the old ones
+- i am from Brazil 
+- i am a student from Cesar School 💻
+- i am graduated in electrical engineering 🔌
+- i am learning to program with several languages, but i have a preference for python 🐍
+- i love to play videogames, especially the old ones 🎮
 - pronouns: he/him
 - how to reach me: https://www.linkedin.com/in/tiago-fittipaldi-1247ba240/ or email me at: tiagofittipaldi@hotmail.com
 
