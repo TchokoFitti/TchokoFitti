@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am Tiago
+- i am a student from Cesar School
+- i am graduated in electrical engineering
+- i am learning to program with several languages, but i have a preference for python
+- i love to play videogames, especially the old ones
+- pronouns: he/him
+
 
 <!--
 **TchokoFitti/TchokoFitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
